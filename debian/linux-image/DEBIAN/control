@@ -1,0 +1,12 @@
+Package: linux-image-5.10.158-bt
+Source: linux-5.10.158-bt
+Version: 5.10.158-bt-101
+Architecture: amd64
+Maintainer: evaluador <evaluador@debian>
+Installed-Size: 316554
+Section: kernel
+Priority: optional
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.158-bt
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.158-bt.

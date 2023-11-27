@@ -1,0 +1,4 @@
+linux-5.10.158-bt_5.10.158-bt-101_amd64.buildinfo kernel optional
+linux-headers-5.10.158-bt_5.10.158-bt-101_amd64.deb kernel optional
+linux-image-5.10.158-bt_5.10.158-bt-101_amd64.deb kernel optional
+linux-libc-dev_5.10.158-bt-101_amd64.deb devel optional

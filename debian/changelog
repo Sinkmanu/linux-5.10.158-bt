@@ -1,0 +1,5 @@
+linux-5.10.158-bt (5.10.158-bt-101) bullseye; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- evaluador <evaluador@debian>  Fri, 19 May 2023 11:01:13 +0200
